@@ -1,40 +1,19 @@
-<div align="center">
-<p>
-    <a>
-      <img alt="Linux" src="https://img.shields.io/badge/Linux-%23.svg?style=flat-square&logo=linux&color=FCC624&logoColor=black" />
-    </a>
-    <a>
-      <img alt="macOS" src="https://img.shields.io/badge/macOS-%23.svg?style=flat-square&logo=apple&color=000000&logoColor=white" />
-    </a>
-    <a>
-      <img alt="Windows" src="https://img.shields.io/badge/Windows-%23.svg?style=flat-square&logo=windows&color=0078D6&logoColor=white" />
-    </a>
-    <a href="https://github.com/jdhao/nvim-config/releases/latest">
-      <img alt="Latest release" src="https://img.shields.io/github/v/release/jdhao/nvim-config" />
-    </a>
-    <a href="https://github.com/neovim/neovim/releases/tag/stable">
-      <img src="https://img.shields.io/badge/Neovim-0.9.5-blueviolet.svg?style=flat-square&logo=Neovim&logoColor=green" alt="Neovim minimum version"/>
-    </a>
-    <a href="https://github.com/jdhao/nvim-config/search?l=vim-script">
-      <img src="https://img.shields.io/github/languages/top/jdhao/nvim-config" alt="Top languages"/>
-    </a>
-    <a href="https://github.com/jdhao/nvim-config/graphs/commit-activity">
-      <img src="https://img.shields.io/github/commit-activity/m/jdhao/nvim-config?style=flat-square" />
-    </a>
-    <a href="https://github.com/jdhao/nvim-config/releases/tag/v0.9.5">
-      <img src="https://img.shields.io/github/commits-since/jdhao/nvim-config/v0.9.5?style=flat-square" />
-    </a>
-    <a href="https://github.com/jdhao/nvim-config/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/jdhao/nvim-config?style=flat-square" />
-    </a>
-    <a>
-      <img src="https://img.shields.io/github/repo-size/jdhao/nvim-config?style=flat-square" />
-    </a>
-    <a href="https://github.com/jdhao/nvim-config/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/jdhao/nvim-config?style=flat-square&logo=GNU&label=License" alt="License"/>
-    </a>
-</p>
-</div>
+# READNE
+
+This repo based on [jdhao/nvim-config](https://github.com/jdhao/nvim-config)
+
+## 我做的修改
+
+- 基于[Codeium](https://codeium.com)的AI自动补全
+- 基于[ToggleTerm](https://github.com/akinsho/toggleterm.nvim)的终端唤起
+
+Codeium的使用方法请参考[codeium.vim](https://github.com/Exafunction/codeium.vim)
+
+toggleterm的使用方法请参考[toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)
+
+在本配置中，在Normal模式使用`Ctrl-t`快捷键唤起toggleterm
+
+以下是原repo的文档
 
 # Introduction
 
