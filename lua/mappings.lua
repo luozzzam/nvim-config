@@ -229,3 +229,6 @@ keymap.set("n", "<leader>cb", function()
     cnt = cnt + 1
   end))
 end)
+
+-- Format code with Neoformat
+keymap.set('n', '<leader>nf', ':Neoformat<CR>', { silent = true, desc = "Format code with Neoformat" })
